@@ -1,6 +1,7 @@
 package com.example.hamburguerDecorator.model;
 
 public class HamburguerSimples implements Hamburguer {
+
     private String nome;
     private double precoBase;
 
