@@ -1,6 +1,7 @@
 package com.example.hamburguerDecorator.model;
 
 public abstract class HamburguerDecorator implements Hamburguer {
+
     protected Hamburguer hamburguer;
 
     public HamburguerDecorator(Hamburguer hamburguer) {
